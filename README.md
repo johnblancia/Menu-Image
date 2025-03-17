@@ -1,5 +1,5 @@
-# Menu-Image
-BMH "Carwash Food &amp; Drinks" Menu
+# BMH "Carwash Food & Drinks"
+Menu
 
 
 ![image alt](https://github.com/johnblancia/Menu-Image/blob/main/FB_IMG_1742219551252.jpg?raw=true)
